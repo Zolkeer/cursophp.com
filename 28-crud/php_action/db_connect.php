@@ -1,5 +1,5 @@
 <?php
-// Conexão com banco de dados
+// Conexão com banco de dados tive que formatar o pc por conta disso
 $servername = "localhost";
 $username = "root";
 $password = "";
